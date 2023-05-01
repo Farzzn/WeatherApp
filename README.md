@@ -15,7 +15,7 @@
     <h2>Usage</h2>
     <p>To use our weather app, simply enter the location you want to check in the search bar. You can customize your location settings by clicking on the gear icon in the top right corner.</p>
     <h2>Screenshots</h2>
-    <img src="HomePage.png" width=300px><img src="Demo.png" width=300px>
+    <img src="HomePage.png" width=500px><img src="Demo.png" width=500px>
     <h2>Contributing</h2>
     <p>If you would like to contribute to our weather app, please fork this repository and submit a pull request. We welcome any feedback or suggestions!</p>
     <h2>License</h2>
