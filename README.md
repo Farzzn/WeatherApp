@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Weather App</title>
 </head>
 <body>
     <h1>Weather App</h1>
