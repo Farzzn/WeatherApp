@@ -5,7 +5,7 @@
 </head>
 <body>
     <h1>Weather App</h1>
-    <p>Welcome to our weather app! With our app, you can check the weather forecast for any location in the world.</p>
+    <p>Welcome to our weather app! Now avilable as firefox extension...</p>
     <img src="exe.jpg" width=500px>
     <h2>Features</h2>
     <ul>
