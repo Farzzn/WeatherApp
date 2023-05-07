@@ -6,6 +6,7 @@
 <body>
     <h1>Weather App</h1>
     <p>Welcome to our weather app! With our app, you can check the weather forecast for any location in the world.</p>
+    <img src="exe.jpeg" width=500px>
     <h2>Features</h2>
     <ul>
         <li>Real-time weather updates</li>
