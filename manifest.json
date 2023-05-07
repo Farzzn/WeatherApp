@@ -1,0 +1,29 @@
+{
+  "manifest_version": 2,
+  "name": "Weather App",
+  "version": "1.0",
+  "description": "Get the weather for your location",
+  "icons": {
+    "48": "icon.png"
+  },
+  "permissions": [
+  "geolocation",
+  "http://api.openweathermap.org/*",
+  "https://api.openweathermap.org/*"
+],
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ],
+"browser_action": {
+    "default_icon": "icon.png",
+    "default_title": "My Weather Extension",
+    "default_popup": "index.html"
+}
+
+}
